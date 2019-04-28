@@ -1,0 +1,4 @@
+F:\UDP\UDPClient\bin\Debug\UDPClient.exe
+F:\UDP\UDPClient\bin\Debug\UDPClient.pdb
+F:\UDP\UDPClient\obj\Debug\UDPClient.exe
+F:\UDP\UDPClient\obj\Debug\UDPClient.pdb

@@ -1,0 +1,4 @@
+F:\UDP\UDPServer\bin\Debug\UDPServer.exe
+F:\UDP\UDPServer\bin\Debug\UDPServer.pdb
+F:\UDP\UDPServer\obj\Debug\UDPServer.exe
+F:\UDP\UDPServer\obj\Debug\UDPServer.pdb
